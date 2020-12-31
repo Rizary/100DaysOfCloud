@@ -14,20 +14,21 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Andika Demas Riyandi (Rizary)'s Cloud Journey
 
-[✍️ Introduce yourself]
+Hi! My name is Andika. I am a Muslim, a Father, and An Ex-Lawyer who got interested in the cloud industry. During my 8 years of professional legal counsel, I took Bachelor of Computer Science and graduated in 2018. Right now, I am working as a software engineer at NumTide Ltd, mostly using Rust and Go.
 
-[✍️ Tell us why you started this challenge]
+I've started this challenge to pave my way through Cloud Engineer and DevOps career path especially in the Amazon Web Services (AWS) ecosystem which is my company (NumTide) is doing as a DevOps consulting company.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge, I want to be certified as an AWS Solution Architect Associates, and if also possible as an AWS Developer Associates.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+Get in touch with me during my journey through:
+- [Twitter](https://twitter.com/Rizary_Andika)
+- [LinkedIn](https://www.linkedin.com/in/andika-riyandi/)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
