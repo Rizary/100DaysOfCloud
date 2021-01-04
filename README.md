@@ -28,10 +28,10 @@ Get in touch with me during my journey through:
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [x] ☁️ 1 > [New Year on a New Journey With DynamoDB](Journey/001/Readme.md)
+- [x] ☁️ 2 > [Solution Architect Associate - A Baby's First Step](Journey/002/Readme.md)
+- [x] ☁️ 3 > [Identity and Access Management (IAM) - Part I](Journey/003/Readme.md)
+- [x] ☁️ 4 > [IAM, Cognito and Amplify to Power-ups AWS Stack](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
