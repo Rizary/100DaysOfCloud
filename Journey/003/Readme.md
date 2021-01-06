@@ -1,7 +1,7 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
 **Add a cover photo like:**
-![placeholder image](day3.png)
+![day3](day3.png)
 
 # Identity and Access Management (IAM) - Part I
 

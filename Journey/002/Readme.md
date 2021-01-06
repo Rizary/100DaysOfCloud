@@ -1,6 +1,6 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-![placeholder image](day2.jpg)
+![day2](day2.jpg)
 
 # Solution Architect Associate - A Baby's First Step
 

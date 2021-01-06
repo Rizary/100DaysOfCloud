@@ -1,6 +1,6 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-![placeholder image](day1.jpg)
+![day1](day1.jpg)
 
 # New Year on a New Journey With DynamoDB (1/100)
 

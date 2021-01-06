@@ -1,7 +1,7 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
 **Add a cover photo like:**
-![placeholder image](day4.png)
+![day4](day4.png)
 
 # IAM, Cognito and Amplify to Power-ups AWS Stack
 
